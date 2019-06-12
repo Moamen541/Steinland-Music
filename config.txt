@@ -1,6 +1,6 @@
-owner=348554915876175902
-prefix=s
+owner=275276548343595008
+prefix=!
 game=Minecraft With My Lord
 stayinchannel=true
 songinstatus=true
-token=NTYzMjUzNjAxMTYyNDkzOTU0.XKWqUg.PfX-5l4OVraUpejwi03-j-mcwNQ
+token=NTg4NTA5MDI3MzgyODUzNjQz.XQGONg.8u-Bl9b2LwX5tIpkDz9r92Hm2fw
