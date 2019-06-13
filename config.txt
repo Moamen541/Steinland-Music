@@ -1,6 +1,6 @@
-owner=275276548343595008
-prefix=!
-game=Minecraft With My Lord
+owner=348554915876175902
+prefix=!!
+game= LOL wih Sölo | !!help
 stayinchannel=true
 songinstatus=true
-token=NTg4NTA5MDI3MzgyODUzNjQz.XQGONg.8u-Bl9b2LwX5tIpkDz9r92Hm2fw
+token=NTg4NTA5MDI3MzgyODUzNjQz.XQIS8A.7UH_zpq_1UQGBhbVmJSSzcJ5Y30
